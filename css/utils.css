@@ -1,0 +1,15 @@
+.flex-all-center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-2{
+    margin: 5px 20px 10px 2px;
+}
+.text-center{
+    text-align: center;
+}
+.fit-img{
+    width: 155px;
+}
